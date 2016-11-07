@@ -1,0 +1,23 @@
+.nav {
+  float: left;
+  clear: both;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background: #222;
+}
+
+.nav-inner {
+  float: left;
+  clear: both;
+  width: auto;
+  margin: 0;
+  padding: 10px 20px;
+  background: transparent;
+}
+
+p {
+  color: #fff;
+  font-family: arial;
+  font-weight: bold;
+}

@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 f7c5861a63bc64420aafda65d5e374be536b8897 Daoose <dmaslov.eu@gmail.com> 1470885383 +1200	commit (initial): first commit
+f7c5861a63bc64420aafda65d5e374be536b8897 5333a21249f51c2ed95977dd43854f36f2416574 Daoose <dmaslov.eu@gmail.com> 1470885810 +1200	commit: http -> https
+5333a21249f51c2ed95977dd43854f36f2416574 65e6abbcccaad72573c040b4bdd52c8990d3a5bf Daoose <dmaslov.eu@gmail.com> 1470885933 +1200	commit: http -> https
+65e6abbcccaad72573c040b4bdd52c8990d3a5bf f23ebb27c88d2900b03c6dfb2454196b39585aef Daoose <dmaslov.eu@gmail.com> 1470886285 +1200	commit: http -> https
+f23ebb27c88d2900b03c6dfb2454196b39585aef bbfb3a0b3efd0eddcc5c68252c4a8e3f12824db1 Daoose <dmaslov.eu@gmail.com> 1471153100 +1200	commit: redesign 1
+bbfb3a0b3efd0eddcc5c68252c4a8e3f12824db1 7eb9c4fdadbc496184a544e3e595123ea287c8cc Daoose <dmaslov.eu@gmail.com> 1471378080 +1200	pull: Fast-forward
+7eb9c4fdadbc496184a544e3e595123ea287c8cc 995de309d05b93655526dcf996faacd0259a88e7 Daoose <dmaslov.eu@gmail.com> 1471398764 +1200	commit: jpg&png optimized, (v) added, -fixed for bkg-images
+995de309d05b93655526dcf996faacd0259a88e7 f7379c9264b233b9079655204214333612c863c1 Daoose <dmaslov.eu@gmail.com> 1471398858 +1200	commit: jpg&png optimized, (v) added, -fixed for bkg-images
+f7379c9264b233b9079655204214333612c863c1 8046fd488c0b4935005f0d6150aa021b05319cbb Daoose <dmaslov.eu@gmail.com> 1471398902 +1200	commit: jpg&png optimized, (v) added, -fixed for bkg-images
+8046fd488c0b4935005f0d6150aa021b05319cbb 8b664f8ea1dff64952b9e3ea719f3b81b97ccdcf Daoose <dmaslov.eu@gmail.com> 1471399046 +1200	commit: page1central image -> /content/
+8b664f8ea1dff64952b9e3ea719f3b81b97ccdcf 03e9f86f375952880ed2d3633a59a0d3325809fb Daoose <dmaslov.eu@gmail.com> 1471399528 +1200	commit: remove all imgur content
+03e9f86f375952880ed2d3633a59a0d3325809fb db4cb64efe674600623432c001a73dd1adc92837 Dmitry Maslov <dmaslov.eu@gmail.com> 1473038440 +1200	pull: Fast-forward
+db4cb64efe674600623432c001a73dd1adc92837 a7c21b7df9f0b9fe2d55bbb8cd20533b16cf18c9 Dmitry Maslov <dmaslov.eu@gmail.com> 1473045319 +1200	commit: fixed main page address & optimized jpg
+a7c21b7df9f0b9fe2d55bbb8cd20533b16cf18c9 bbe49a46940dd29524aaf7bef9595fad0697f2da Daoose <dmaslov.eu@gmail.com> 1473561872 +1200	pull: Fast-forward
+bbe49a46940dd29524aaf7bef9595fad0697f2da eaff8b83c0dc3ea62df60fbdb5f3606894f69c92 Daoose <dmaslov.eu@gmail.com> 1473561910 +1200	commit: added gf website :)
+eaff8b83c0dc3ea62df60fbdb5f3606894f69c92 5e2919519d10de56e698c57b69e0a7bddc60c3fb Daoose <dmaslov.eu@gmail.com> 1475644783 +1300	pull: Fast-forward
+5e2919519d10de56e698c57b69e0a7bddc60c3fb d151c7af0a48338cb703a5953bf6226ad3da74af Daoose <dmaslov.eu@gmail.com> 1475646507 +1300	commit: images optimizing
+d151c7af0a48338cb703a5953bf6226ad3da74af 6d7aef3001ffdc88bb74e696c0577573b2b99190 Daoose <dmaslov.eu@gmail.com> 1475647129 +1300	commit: texts changes

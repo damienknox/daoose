@@ -1,0 +1,34 @@
+/* Styles */
+html,body {
+  height:100%;
+  margin:0;
+}
+
+.content {
+  height:100%;
+  min-height:100%;
+}
+
+html>body .content {
+  height:auto;
+}
+
+#one {
+  background: url(http://i.imgur.com/rNfd2Wd.jpg) center center no-repeat scroll;
+}
+
+#two {
+  background: url(http://i.imgur.com/0l81YvP.jpg) center center no-repeat scroll;
+}
+
+#three {
+  background: url(http://i.imgur.com/4bdi5ZT.jpg) center center no-repeat scroll;
+}
+
+#four {
+  background: url(http://i.imgur.com/LfUTnF0.jpg) center center no-repeat scroll;
+}
+
+.top-image {
+    height: 30#;
+}

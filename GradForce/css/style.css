@@ -1,0 +1,291 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #8fdbea;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    overflow-x: hidden;    
+}
+
+header {
+    background: url(../images/header-team-bg.png) no-repeat bottom;
+    background-color: #fff;    
+    text-align: center;
+    height: 696px;
+    border-bottom: 4px solid #282c33;
+}
+.logotype img {
+    margin-top: 47px;
+}
+.header-title-1 {
+    color: #74cdde;
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 23px;
+}
+.header-title-2 {
+    color: #282c33;
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: -3px;    
+}
+.header-title-2 span:first-child::after {
+    color: #74cdde;    
+    content: "\2022";   
+    margin: 0 20px;
+}
+.header-button {
+    margin-top: 45px;
+}
+.button {
+    color: #282c33;
+    font-size: 12px;
+    font-weight: 700;
+    border: 2px solid #282c33;
+    text-transform: uppercase;
+    padding: 14px 24px;
+    font-weight: 800;
+    cursor: pointer;
+}
+.how-we-work-img {
+    margin-top: 113px;
+    margin-left: 27px;
+}
+.it-service-img {
+    margin-top: -28px;
+    margin-left: 27px;
+}
+.right-col-type1 h1 {
+    color: #282c33;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 188px;    
+    margin-bottom: 25px;
+    margin-left: 48px;     
+}
+.right-col-type1 p {
+    color: #282c33;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    line-height: 35px;
+    margin-left: 48px;     
+    margin-right: 15px;
+    margin-bottom: 35px; 
+}
+.right-col-type2 h1 {
+    color: #282c33;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 41px;    
+    margin-bottom: 25px;
+    margin-left: 48px;     
+}
+.right-col-type2 p, .right-col-type2 ul li {
+    color: #282c33;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    line-height: 35px;
+}
+.right-col-type2 p {
+    margin-bottom: 10px;
+    margin-left: 48px;
+    margin-right: 15px; 
+}
+.right-col-type2 ul li {
+    margin-left: 26px;   
+}
+.right-col-type3 h1 {
+    color: #282c33;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 82px;    
+    margin-bottom: 25px;
+    margin-left: 48px;  
+    line-height: 53px;
+}
+.right-col-type3 p, .right-col-type3 ul li {
+    color: #282c33;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+}
+.right-col-type3 p {
+    margin-bottom: 10px;
+    margin-left: 48px;
+    margin-right: 15px; 
+    line-height: 35px;    
+}
+.right-col-type3 ul li {
+    margin-left: 26px;   
+    line-height: 31px;    
+}
+.right-col-type3 ul {
+    margin-bottom: 36px;
+}
+.right-col-type3 .button {
+    margin-left: 50px;
+    padding: 14px 35px;
+}
+.right-col-type4 h1 {
+    color: #282c33;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 108px;    
+    margin-bottom: 25px;
+    margin-left: 48px;     
+}
+.right-col-type4 p {
+    color: #282c33;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    line-height: 35px;
+    margin-left: 48px;     
+    margin-right: 15px;
+    margin-bottom: 35px; 
+}
+.right-col-type5 h1 {
+    color: #282c33;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 57px;    
+    margin-bottom: 25px;
+    margin-left: 48px;     
+}
+.right-col-type5 p {
+    color: #282c33;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    line-height: 35px;
+    margin-bottom: 35px; 
+    margin-left: 48px;
+    margin-right: 55px;     
+}
+.single-right-col {
+    margin-top: 94px;
+}
+.full-col-type1 h2 {
+    color: #282c33;
+    font-size: 42px;
+    font-weight: 700; 
+    line-height: 63px;
+    margin-left: 50px;
+    margin-top: 18px;   
+}
+.full-col-type2 h2 {
+    color: #282c33;
+    font-size: 42px;
+    font-weight: 700; 
+    line-height: 63px;
+    margin-left: 50px;
+    margin-top: 115px;   
+}
+.full-col-type3 h2 {
+    color: #282c33;
+    font-size: 42px;
+    font-weight: 700; 
+    line-height: 63px;
+    margin-left: 50px;
+    margin-top: 43px;     
+}
+.custom-row {
+    width: 3500px;
+    white-space: nowrap;
+    margin-left: 176px;
+    margin-top: 67px;    
+}
+.team-member {
+    float: left;
+    width: 570px;
+    text-align: left; 
+    margin-right: 32px;
+}
+.member-info {
+    width: 357px;
+    margin-top: 13px;
+    text-align: center;
+}
+.team-member p {
+    white-space:normal;
+    color: #282c33;
+}
+.team-member-name {
+    font-size: 42px;
+    font-weight: 700;
+    margin: 0;
+}
+.team-member-role {
+    font-size: 20px;
+    font-weight: 400; 
+    margin-bottom: 20px;
+}
+.team-member-desc {
+    font-size: 21px;
+    font-weight: 400; 
+    line-height: 28px;
+}
+.left-col-bottom p {
+    color: #282c33;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    line-height: 35px;
+    margin: 43px 55px 40px 48px;     
+}
+.left-col-bottom .button {
+    margin-left: 47px;
+    padding: 14px 34px;
+}
+.right-col-bottom {
+    padding-top: 43px;
+}
+.right-col-bottom p {
+    color: #282c33;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 35px;
+    margin-bottom: 2px; 
+    margin-left: 48px;
+    margin-right: 55px;     
+}
+.icons {
+    margin: 62px 0 0 48px;
+}
+.icons img {
+    padding-right: 16px;
+}
+.contacts span {
+    font-weight: bold;
+}
+.switcher-buttons {
+    margin-top: 58px;
+    margin-left: 50px;
+}
+.switcher {
+    color: rgba(0, 0, 0, 0.3);
+    font-size: 12px;
+    font-weight: 500;     
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-right: 75px;
+    cursor: pointer;
+}
+.switcher:hover {
+    text-decoration: underline;
+}
+.switcher+.active {
+    color: #282c33;
+    font-weight: 700;    
+}
+footer {
+    background: url('../images/footer.png') no-repeat bottom;
+    height: 614px;
+}
+.no-padding {
+   padding: 0 !important;
+}
+.no-margin {
+   margin: 0 !important;
+}
